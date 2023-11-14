@@ -1,7 +1,7 @@
-import random
 from fastapi import FastAPI
 from pydantic import BaseModel
 import uvicorn
+import random
 
 FACTS_FILE = "/Users/shanti/dPython/dGrand_Circus/ddata/bear_facts.txt"
 
